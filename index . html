@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="ar">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>كشروتي — محمد بلقاضي | صانع محتوى تيك توك (@k.0yu)</title>
+  <meta name="description" content="كشروتي هو اسم مستعار لصانع محتوى جزائري — محمد بلقاضي. حساب تيك توك: @k.0yu — حوالي 126 ألف متابع. مشهور بستيل شبابي ومحتوى يجذب جمهور أجنبي." />
+  <!-- Open Graph -->
+  <meta property="og:type" content="profile" />
+  <meta property="og:title" content="كشروتي — محمد بلقاضي" />
+  <meta property="og:description" content="صانع محتوى جزائري — تيك توك: @k.0yu — ~450k متابع." />
+  <meta property="og:url" content="https://USERNAME.github.io/REPO_NAME/" />
+  <!-- Twitter card -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="كشروتي — محمد بلقاضي" />
+  <meta name="twitter:description" content="صانع محتوى جزائري — تيك توك: @k.0yu — ~450k متابع." />
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "محمد بلقاضي",
+    "alternateName": "كشروتي",
+    "url": "https://USERNAME.github.io/REPO_NAME/",
+    "sameAs": [
+      "https://www.tiktok.com/@k.0yu",
+      "https://instagram.com/kchroty_2007"
+    ],
+    "description": "صانع محتوى جزائري معروف بستيل شبابي ومحتوى يجلب جمهور دولي."
+  }
+  </script>
+  <style>
+    body { font-family: system-ui, Arial, "Noto Naskh Arabic", sans-serif; line-height:1.6; padding:24px; max-width:820px; margin:auto; }
+    header { text-align:center; margin-bottom:18px; }
+    img.avatar { width:160px; height:160px; border-radius:12px; object-fit:cover; }
+    .links a{display:inline-block; margin:6px 8px; text-decoration:none; padding:8px 12px; border-radius:8px; border:1px solid #ddd;}
+  </style>
+</head>
+<body>
+  <header>
+    <h1>كشروتي — محمد بلقاضي</h1>
+    <p>صانع محتوى جزائري — تيك توك: <strong>@k.0yu</strong></p>
+    <!-- ضع صورة هنا لو حاب -->
+    <!-- <img class="avatar" src="avatar.jpg" alt="محمد بلقاضي — كشروتي"> -->
+  </header>
+
+  <main>
+    <section>
+      <p>كشروتي هو اسم مستعار لصانع محتوى جزائري اسمو الحقيقي <strong>محمد بلقاضي</strong>. عندو حساب تيك توك مشهور: <strong>@k.0yu</strong>. كان واصل تقريباً <strong>450 ألف متابع</strong>. عمره حوالي <strong>18 سنة</strong>. معروف بستايلو المميز ومحتواه اللي جاب جمهور كبير حتى من الدول الأجنبية.</p>
+    </section>
+
+    <section class="links">
+      <h3>روابط</h3>
+      <a href="https://www.tiktok.com/@k.0yu" target="_blank" rel="noopener">TikTok @k.0yu</a>
+      <a href="https://instagram.com/kchroty_2007" target="_blank" rel="noopener">Instagram</a>
+    </section>
+  </main>
+
+  <footer style="margin-top:28px; font-size:0.9rem; color:#555;">
+    <p>آخر تحديث: 2025</p>
+  </footer>
+</body>
+</html>
